@@ -1,3 +1,5 @@
 background
-right
-left
+hearts
+diamonds
+spades
+clubs
