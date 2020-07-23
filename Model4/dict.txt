@@ -1,0 +1,26 @@
+background
+5
+9
+7
+6
+spades
+8
+hearts
+home
+cross
+3
+forward
+1
+right
+bomb
+stop
+hospital
+0
+go
+diamonds
+4
+u turn
+2
+crossing
+clubs
+left
